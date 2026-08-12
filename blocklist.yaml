@@ -1,0 +1,25 @@
+denyip:
+
+  -12345.6543
+ 
+ 
+blockedUrls:
+
+  - evilsite.com
+
+  - baddsite.com
+
+  - Darkweb.com
+
+  - newbadsite.com
+
+  - Badsite.com
+
+  - /api.head
+
+#ADD URL HERE
+ 
+  here we will have some content 
+
+  that we dont want to touch
+ 
