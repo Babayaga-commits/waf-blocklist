@@ -18,6 +18,7 @@ blockedUrls:
   - /api.head
 
  - /api.head
+ - /api.head
 #ADD URL HERE
  
   here we will have some content 
